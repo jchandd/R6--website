@@ -16,6 +16,7 @@ ul {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-weight: bold;
   }
   
   li a:hover:not(.active) {
@@ -27,5 +28,10 @@ ul {
 
 
 
-
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
